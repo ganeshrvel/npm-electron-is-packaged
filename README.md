@@ -31,7 +31,7 @@ $ yarn add electron-is-packaged
 // Import ES6 way
 import { isPackaged } from 'electron-is-packaged';
 
-// Import ES2015 way
+// Import ES5 way
 const isPackaged = require('electron-is-packaged').isPackaged;
 
 // Output: boolean

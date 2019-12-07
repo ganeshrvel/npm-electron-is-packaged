@@ -1,6 +1,6 @@
 {
   "name": "electron-is-packaged",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if the Electron Application is packaged",
   "main": "lib/index.js",
   "scripts": {
