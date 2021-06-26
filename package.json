@@ -37,8 +37,5 @@
     "url": "git+https://github.com/ganeshrvel/npm-electron-is-packaged.git"
   },
   "homepage": "https://github.com/ganeshrvel/npm-electron-is-packaged",
-  "peerDependencies": {
-    "eslint": "^3.0.0 || ^4.0.0 || ^5.0.0"
-  },
   "dependencies": {}
 }
